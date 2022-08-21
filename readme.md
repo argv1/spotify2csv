@@ -23,7 +23,7 @@ i.e. main.py -p HipPop -u https://open.spotify.com/playlist/5uTtzyjeX6XvqNopZDwe
 
 ## License
 This code is licensed under the [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/). <p>
-For more details, please take a look at the [LICENSE file](https://github.com/argv1/1live-on-spotify/blob/main/LICENSE).
+For more details, please take a look at the [LICENSE file](https://github.com/argv1/spotify2csv/blob/main/LICENSE).
 
 ## Outlook
 - [x] Create base functions
