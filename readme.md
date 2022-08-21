@@ -28,7 +28,7 @@ For more details, please take a look at the [LICENSE file](https://github.com/ar
 ## Outlook
 - [x] Create base functions
 
-More liek a PoC, but please feel free to adjust the code. Things that worth to be done are:
+More like a PoC, but please feel free to adjust the code. Things that worth to be done are:
 - [ ] Improving unicode & character encoding
 - [ ] Add a filter to mark songs, which are no longer available on spotify 
 - [ ] Add web scrapping request support to fetch playlist data without a spotify developer account 
