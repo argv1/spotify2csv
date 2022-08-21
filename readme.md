@@ -18,7 +18,7 @@ and replace the placeholders for SPOTIFY_USERNAME, SPOTIFY_CLIENT_ID and SPOTIFY
 
 now you can run the script by providing an url:
 ```bash
-i.e. main.py -u https://www1.wdr.de/radio/1live/on-air/sendungen/1live-fiehe/index.html
+i.e. main.py -p HipPop -u https://open.spotify.com/playlist/5uTtzyjeX6XvqNopZDwe0u?si=5d1861900edd4e48
 ```
 
 ## License
