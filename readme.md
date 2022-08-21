@@ -2,7 +2,7 @@
 ======================
  
 ## Purpose
-Create a CSV file based on any spotify playlist
+Create a CSV file based on any spotify playlist using the spotify API
 
 ## Playlists
 If you just want to listen to some playlist, feel free to check out this [collection of playlists](https://open.spotify.com/user/11123260766?si=aaa69784965e4b51).
