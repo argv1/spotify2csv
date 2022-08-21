@@ -5,7 +5,7 @@
 Create a CSV file based on any spotify playlist
 
 ## Playlists
-If you just want to listen to some playlist, you could check out this [collection of playlists](https://open.spotify.com/user/11123260766?si=aaa69784965e4b51).
+If you just want to listen to some playlist, feel free to check out this [collection of playlists](https://open.spotify.com/user/11123260766?si=aaa69784965e4b51).
 
 ## Usage
 run pip to ensure all requirements are fulfilled
