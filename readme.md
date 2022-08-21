@@ -21,11 +21,11 @@ now you can run the script by providing an url:
 ```bash
 i.e. main.py -p HipPop -u https://open.spotify.com/playlist/5uTtzyjeX6XvqNopZDwe0u?si=5d1861900edd4e48
 ```
-
+</br>
 ## License
 This code is licensed under the [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/). <p>
 For more details, please take a look at the [LICENSE file](https://github.com/argv1/spotify2csv/blob/main/LICENSE).
-
+</br>
 ## Outlook
 - [x] Create base functions
 
