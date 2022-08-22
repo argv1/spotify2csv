@@ -32,5 +32,6 @@ More of a PoC, but please feel free to adjust the code. Things that worth to be 
 - [ ] Improving unicode & character encoding
 - [ ] Add a filter to mark songs, which are no longer available on spotify 
 - [ ] Add web scrapping request support to fetch playlist data without a spotify developer account 
+- [ ] Migrate to Django or Flask to allow execution via web
 
 
