@@ -18,7 +18,7 @@ and replace the placeholders for SPOTIFY_USERNAME, SPOTIFY_CLIENT_ID and SPOTIFY
 </br>
 now you can run the script by providing a name for the csv playlist and an url:
 ```bash
-main -p PLAYLISTNAME -u URL
+main.py -p PLAYLISTNAME -u URL
 i.e. main.py -p HipPop -u https://open.spotify.com/playlist/5uTtzyjeX6XvqNopZDwe0u?si=5d1861900edd4e48
 ```
 
